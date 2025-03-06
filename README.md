@@ -39,9 +39,3 @@ const proxyUrl = 'https://your-proxy-server.com/api/binance/prices';
 2. Run `npm install`
 3. Start the server: `npm run dev`
 4. The server will be available at `http://localhost:3001`
-
-## Security Considerations
-
-- Consider adding API key authentication to your proxy
-- Set up proper CORS restrictions to only allow your application
-- Monitor usage to detect and prevent abuse 
